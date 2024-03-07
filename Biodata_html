@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Judul Halaman</title>
+        <title>Biodata Diri</title>
     </head>
   <body>
         <h1>Willybrodus Stephanus Da Costa</h1>
@@ -12,4 +12,5 @@
         <p>Saya biasa dipanggil Wilson, saya dari provinsi NTT,Ende-Flores</p>
         <h2>Pendidikan</h2>
         <p>Saat ini saya sedang menempuh pendidikan semester 4 di Universitas Pendidikan Nasional, dan mengambil Fakultas Teknik dan Informatika/Prodi Teknologi Informasi.</p>
+        <img src="c:\Users\HP\Downloads\1709820061266.jpg" alt="Foto Profil">
 </body>
