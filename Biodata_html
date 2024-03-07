@@ -6,7 +6,10 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Judul Halaman</title>
     </head>
-    <body>
-
-    </body>
-</html>
+  <body>
+        <h1>Willybrodus Stephanus Da Costa</h1>
+        <h2>Biografi</h2>
+        <p>Saya biasa dipanggil Wilson, saya dari provinsi NTT,Ende-Flores</p>
+        <h2>Pendidikan</h2>
+        <p>Saat ini saya sedang menempuh pendidikan semester 4 di Universitas Pendidikan Nasional, dan mengambil Fakultas Teknik dan Informatika/Prodi Teknologi Informasi.</p>
+</body>
